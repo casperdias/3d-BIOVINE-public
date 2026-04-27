@@ -4077,7 +4077,7 @@ VINASSE`,a,5.5,s,16752736)}function wg(n){const e=new ye({color:1728544}),t=new 
 
         <!-- Page 1: Handbook image -->
         <div class="glossary-page" id="glossary-page-1">
-          <img src="/HandbookVinasse.png" alt="Handbook Vinasse" style="width:100%;border-radius:8px;">
+          <img src="HandbookVinasse.png" alt="Handbook Vinasse" style="width:100%;border-radius:8px;">
         </div>
 
         <!-- Page 2: Glossary terms -->
