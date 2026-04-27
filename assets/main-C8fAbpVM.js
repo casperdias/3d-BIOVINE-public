@@ -3810,8 +3810,8 @@ VINASSE`,a,5.5,s,16752736)}function wg(n){const e=new ye({color:1728544}),t=new 
       <div id="hud-right">
         <span id="hud-points">0</span>
         <div id="hud-attempts"></div>
-        <button id="btn-glossary">📖 Buku Saku</button>
-        <button id="btn-pause-menu">⚙️ Menu</button>
+        <button id="btn-glossary"><span class="btn-icon">📖</span><span class="btn-label"> Buku Saku</span></button>
+        <button id="btn-pause-menu"><span class="btn-icon">⚙️</span><span class="btn-label"> Menu</span></button>
       </div>
     </div>
   `,n.style.display="none";const e=we("ui-overlay");e.innerHTML=`
